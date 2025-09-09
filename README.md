@@ -19,3 +19,5 @@ example run: "python3 main.py bt bt_valley_rg bt_ridge_rg 1.0 1.0 1.0 32 all1 T"
 		       	in this case all 3 parameters are 1. you may use 070710 if p1=0.7,p2=0.7,p3=1
 
 postprocessing.py: this code postprocesses the initial slope units from IBPA; see comments inside the code.
+
+bt.tif: the test dem file in .tif format.
