@@ -20,4 +20,7 @@ example run: "python3 main.py bt bt_valley_rg bt_ridge_rg 1.0 1.0 1.0 32 all1 T"
 
 postprocessing.py: this code postprocesses the initial slope units from IBPA; see comments inside the code.
 
+bt.tif: the test dem file in .tif format.
+
+
 
